@@ -22,8 +22,8 @@ An basic analytics module utilizing Langflow and DataStax to analyze engagement 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/BlackDevil559/InsightFlow
-cd InsightFlow
+https://github.com/Zaidusyy/SuperMind/
+cd SuperMind
 ```
 
 ### 2. Create a Virtual Environment
@@ -69,7 +69,7 @@ streamlit run main.py
 
 (2) Click on the "Generate Insights" button to analyze the query.
 
-View the analysis result along with the chat history displayed below the input area.
+View the analysis result and the chat history below the input area.
 
 ## Project Structure
 - app.py: Main application file containing the Streamlit app logic.
@@ -77,7 +77,7 @@ View the analysis result along with the chat history displayed below the input a
 - .env: File for storing environment variables securely.
 
 ## Demonstration
-https://youtu.be/U3UeG7rihoQ
+
 
 ## Notes
 Ensure you have a valid LangFlow APP_TOKEN before running the application.
